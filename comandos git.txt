@@ -1,0 +1,7 @@
+GIT CLONE (LINK DO REPOSITOR)
+GIT ADD [nome do arquivo] ou . para subir tudo
+GIT COMMIT -m "MSG"
+GIT PUSH ORIGIN [BRANCH]
+GIT PULL (sincroniza os arquivos na sua maquina, baixando o arquivo do github)
+GIT CHECKOUT [BRANCH]
+GIT MERGE ORIGIN [BRANCH]
